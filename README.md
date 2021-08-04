@@ -1,4 +1,4 @@
-####简答题
+#### 简答题
 
 1、谈谈你对工程化的初步认识，结合你之前遇到过的问题说出三个以上工程化能够解决问题或者带来的价值。
 
@@ -21,24 +21,24 @@
 >答：
 >   脚手架可以帮我们快速生成项目，创建项目基础结构。不仅是创建项目基础结构，更重要的是给开发者提供一种约束和规范，例如：相同的组织结构，相同的代码开发范式、相同的模块依赖、相同的工具配置，相同的基础代码。更加利于代码维护与团队开发。
 
-####编程题
+#### 编程题
 
 1、概述脚手架实现过程，并使用NodeJS 完成一个自定义的小型脚手架工具
 
->答：[作业地址](https://github.com/siyiyan/fed-e-task-02-01/tree/master/demo-plop)
+>答：[地址](https://github.com/siyiyan/fed-e-task-02-01/tree/master/demo-plop)
 
 2、尝试使用 Glup 完成项目的自动化构建
 
->答：[作业地址](https://github.com/siyiyan/fed-e-task-02-01/tree/master/gulp/pages-boilerplate)
+>答：[地址](https://github.com/siyiyan/fed-e-task-02-01/tree/master/gulp/pages-boilerplate)
 
 3、使用 GGrunt 完成项目的自动化构建
 
     2-3题项目基础代码下载地址：
         百度网盘：https://pan.baidu.com/share/init?surl=AyGApMTFEfCeGfQBdykOGg 提取码：bw3r
 
-####说明：
+#### 说明：
 
-    本次作业的编程题要求大家完成相应代码后（二选一）
+    本次的编程题要求大家完成相应代码后（二选一）
     1.简单录制一个小视频介绍一下实现思路，并演示一下相关功能
     2.提交一个项目说明文档，要求思路流程清晰
     最终将录制的视屏或说明文档和代码统一提交至仓库
